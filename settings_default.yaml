@@ -1,0 +1,42 @@
+---
+
+userInfo :
+  isFullInfo : 0
+
+values :
+  ## 手机号
+  _widget_1582001600375 :
+    data : "" # 手机号（填写）
+    visible : True
+
+  ## 生源所在地
+  _widget_1597648466152 :
+    data :
+      province : ""  #省份（填写）
+      city : ""  # 城市（填写）
+      district : ""  # 区（填写）
+      detail : ""  # 详细地址（填写）
+    visible : True
+
+  ## 目前所在地详细地址
+  _widget_1597972212799 :
+    data :
+      province : ""  #省份（填写）
+      city : ""  #城市（填写）
+      district : ""  #区（填写）
+      detail : "" #详细地址（填写）
+    visible : True
+
+  ## 定位目前所在地/街道
+  _widget_1594972480348 :
+    data :
+      province : ""  #省份（填写）
+      city : ""  #城市（填写）
+      district : ""  #区（填写）
+      detail : ""  #详细地址（填写）
+    visible : True
+
+  ## 在京常住地址
+  _widget_1596350939077 :
+    data : ""  #（填写）
+    visible : True
