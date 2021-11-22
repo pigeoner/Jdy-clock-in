@@ -5,3 +5,4 @@ qrcode.jpg
 create_request.json
 entryDetail.json
 userInfo.json
+*.http
